@@ -4,7 +4,7 @@ body {
   color: #191970;
 }
 
-kartu-profil {
+.kartu-profil {
   width: 300px;
   margin: 50px auto;
   padding: 20px;
@@ -13,11 +13,11 @@ kartu-profil {
   box-shadow: 4px 8px rgba(0,0,0,1);
 }
 
-kartu-profil log {
+.kartu-profil log {
   width: 150px;
   border-radius: 50px:;
 }
 
-kartu-profil {
+.kartu-profil {
   text-align: center;
 }
