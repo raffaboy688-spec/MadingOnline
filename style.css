@@ -2,6 +2,7 @@ body {
   background-color: #FFFFE0;
   font-family: Arial, sans-serif;
   color: #191970;
+  align: center;
 }
 
 .kartu-profil {
@@ -16,6 +17,7 @@ body {
 .kartu-profil img {
   width: 150px;
   border-radius: 50px;
+  align: center;
 }
 
 .kartu-profil {
